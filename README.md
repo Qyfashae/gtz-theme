@@ -8,6 +8,7 @@
 </h1>
 
 <h4 align="center">A Visual Studio Code Color-Theme<a href="https://github.com/Qyfashae/gtz-theme" target="_blank"> GotZen</a>.</h4>
+<h5 align="center">Will soon be added to vscode extensions store and full folder with integration.</h5>
 
 <br>
 
