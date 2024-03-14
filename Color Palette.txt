@@ -1,0 +1,21 @@
+Color Palette :
+    - Main Background : #001A20 / 70% opacity
+    - Second Background : #002b36 / 70% opacity
+    - Third Background : #073642 / 70% opacity
+    - Main Foreground : #586e75  
+    - Second Foreground : #657b83
+    - Third Foreground : #839496
+    - Main Text : #d33682
+    - Second Text : #6c71c4
+    - Third Text : #2aa198
+    
+    Accent Colors : {
+        yellow 	#b58900
+        orange 	#cb4b16
+        red 	#dc322f
+        magenta	#d33682
+        violet 	#6c71c4
+        blue 	#268bd2
+        cyan 	#2aa198
+        green 	#859900
+    }

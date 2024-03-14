@@ -1,0 +1,27 @@
+{
+    "glassit.alpha": 235,
+    // Here you will add all workbench.* lines.
+    {
+        // Here goes modified color specifications for each color opt
+        // If you want to edit these color customizations you need to add the code below
+        /*
+        "workbench.settings.applyToAllProfiles": [],
+        "workbench.editor.decorations.colors": false,
+        "workbench.editor.decorations.badges": true,
+        "workbench.colorTheme": "got the zen",
+        "workbench.colorCustomizations": {
+
+        },
+        */
+    },
+    // Folder & File - colors
+    "material-icon-theme.folders.color": "#d33682",
+    "material-icon-theme.files.color": "#6c71c4",
+    // Forced seeting to change topbar bg, fg & m.m
+    "window.titleBarStyle": "custom",
+    // Enable git-deco for tab colors
+    "git.decorations.enabled": true,
+    // Font style & merging ligatures
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,   
+}
